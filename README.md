@@ -1,2 +1,2 @@
-# Fetch-Rewards-
+# Fetch-Rewards
 Fetch Rewards coding challenge
